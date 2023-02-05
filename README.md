@@ -1,2 +1,2 @@
-# Gayab_app
-final project
+# Name: Abdiramaan Mohamed Shukri
+C119759
